@@ -83,7 +83,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone 
+$ git clone https://github.com/Yantogntng/Renz-Botz-v3
 $ cd fix-bot-v3
 $ npm i 
 ```
@@ -142,7 +142,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/WH-MODS-BOT/fix-bot-v3
+git clone https://github.com/Yantogntng/Renz-Botz-v3
 cd fix-bot-v3
 npm install
 npm update
