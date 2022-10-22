@@ -23,7 +23,7 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6283144670363">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/_ctzhid_">
@@ -83,7 +83,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/WH-MODS-BOT/fix-bot-v3
+$ git clone 
 $ cd fix-bot-v3
 $ npm i 
 ```
